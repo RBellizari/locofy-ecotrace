@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --leaf-body-small: "Source Sans 3";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --leaf-body-small-size: 12px;
+  --leaf-label-large-size: 14px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --leaf-sys-light-background: #f2f3f7;
+  --leaf-sys-light-on-surface-variant: #6e7469;
+  --color-aliceblue-100: #e7ecf2;
+  --leaf-sys-light-secondary-container: #e4edf3;
+  --color-slategray: #506281;
+  --color-royalblue-100: #1877f2;
+  --color-royalblue-200: #0c57b8;
+  --leaf-sys-light-error: #ba1a1a;
+  --leaf-sys-light-outline-variant: #eaefe4;
+  --leaf-sys-light-on-secondary-container: #1e2a3d;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+  --gap-xs: 12px;
+  --gap-7xs: 6px;
+  --gap-5xl: 24px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-base: 16px;
+  --padding-5xs: 8px;
+  --padding-9xs: 4px;
+  --padding-xs: 12px;
+  --padding-lg: 18px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-81xl: 100px;
+}
