@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/locofy-ecotrace/static/css/main.1de720e3.css",
+    "main.js": "/locofy-ecotrace/static/js/main.912ed081.js",
+    "static/js/787.dcbdd2a6.chunk.js": "/locofy-ecotrace/static/js/787.dcbdd2a6.chunk.js",
+    "index.html": "/locofy-ecotrace/index.html",
+    "main.1de720e3.css.map": "/locofy-ecotrace/static/css/main.1de720e3.css.map",
+    "main.912ed081.js.map": "/locofy-ecotrace/static/js/main.912ed081.js.map",
+    "787.dcbdd2a6.chunk.js.map": "/locofy-ecotrace/static/js/787.dcbdd2a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de720e3.css",
+    "static/js/main.912ed081.js"
+  ]
+}
